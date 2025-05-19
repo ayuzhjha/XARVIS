@@ -1,5 +1,6 @@
 # XARVIS
 Desktop "Smart" Ai assistant 
+(Check the latest release)
 
 To Run this assistant :
 
