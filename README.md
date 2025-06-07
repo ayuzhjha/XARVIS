@@ -26,8 +26,8 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/XARVIS-Voice-Assistant.git
-cd XARVIS-Voice-Assistant
+git clone https://github.com/ayuzhjha/XARVIS.git
+cd XARVIS
 ```
 
 ### 2. Install Dependencies
@@ -92,18 +92,6 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
 
 ---
 
-## 💬 Sample Commands
-
-| You Say                         | XARVIS Does                            |
-|----------------------------------|----------------------------------------|
-| "What’s the weather today?"     | Tells current weather in your city     |
-| "Give me top news"              | Reads out latest headlines             |
-| "Who is Elon Musk?"             | Responds via LLaMA 2                   |
-| "Tell me a joke"                | AI-generated response from LLaMA       |
-| "exit" / "bye"                  | Gracefully ends the session            |
-
----
-
 ## 🧠 Behind the Scenes
 
 | Module         | Role                        |
@@ -113,15 +101,6 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
 | `ollama`       | Chat interaction via LLaMA 2 |
 | `requests`     | Weather + News API calls     |
 | `winreg`       | Adds to startup              |
-
----
-
-## 📸 Screenshots
-
-> _(Add these in your GitHub repo's `assets/` folder and update the image links.)_
-
-<img src="assets/xarvis-demo1.png" width="600">
-<img src="assets/xarvis-demo2.png" width="600">
 
 ---
 
@@ -138,13 +117,7 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
 
 Made with ❤️ by **Ayush Jha (A.J.)**  
 🛠️ Division: **XAEZOR → XARVIS (AI Assistant)**  
-📫 Reach out: [GitHub](https://github.com/your-username)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
+📫 Reach out: [GitHub](https://github.com/ayuzhjha)
 
 ---
 
