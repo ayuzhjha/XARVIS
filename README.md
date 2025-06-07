@@ -63,7 +63,7 @@ location = "Your City"
 Run the assistant:
 
 ```bash
-python main.py
+python JARVIS1.2.py
 ```
 
 - XARVIS will:
