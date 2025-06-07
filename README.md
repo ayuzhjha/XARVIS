@@ -115,7 +115,7 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **Ayush Jha (A.J.)**  
+Made by **Ayush Jha (A.J.)**  
 🛠️ Division: **XAEZOR → XARVIS (AI Assistant)**  
 📫 Reach out: [GitHub](https://github.com/ayuzhjha)
 
